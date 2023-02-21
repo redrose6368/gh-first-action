@@ -4,5 +4,5 @@ jobs:
   example-job:
     runs-on: self-hosted
     steps:
-      - name: example-step
+      - name: Say Hello 
         run: echo "Hello World!"
